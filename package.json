@@ -1,0 +1,12 @@
+{
+  "name": "network-speed-visualizer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:CasheeeewNuts/network-speed-visualizer.git",
+  "author": "CasheeeewNuts <casheeeewnuts+tech@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "tester"
+  ]
+}
