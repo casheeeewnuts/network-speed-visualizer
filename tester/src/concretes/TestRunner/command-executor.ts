@@ -1,0 +1,1 @@
+export type CommandExecutor = (command: string) => Promise<{stdout: string, stderr: string}>
